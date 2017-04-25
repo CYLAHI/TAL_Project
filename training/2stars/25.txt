@@ -1,0 +1,4 @@
+As a machine its fine. Light and quiet. But have 2 issues.
+Since day 1 - the screen has a tendency to dim down - then after a short time maybe 30 seconds or longer or maybe not at all - the screen will brighten back to where it was for a short time. This is Very Annoying!!! You tell me. Is this a design problem? or is this a defect?
+
+My other issue is in the layout of the keyboard function Fn- Volume Control. Because Volume control is F10 (mute) F11 (Down) & F12 (Up) -And the Fn Function key is in the far lower left... It takes 2 hands to quickly adjust the audio volume or mute. I use the computer a lot for audio and sometime a web page loads with huge sound. It would be nice to have the physical volume control option laid out easier to adjust.

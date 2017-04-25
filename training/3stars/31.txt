@@ -1,0 +1,17 @@
+Update 11/15/2015--dropped a star.
+Battery life is pretty sad. I'm getting about 3 hours now. It creeks a bit when you adjust the screen. Doesn't stream youtube extremely smooth, nor does it play videos perfectly. The speakers aren't loud at all--at all. You'll definitely need external speakers. And do I dare say it? I wish it were a tad lighter. It's at a good price point, but I wouldn't mind seeing it drop $150 for the 14 inch.
+
+Ok, it's here and I'm happy.
+Lets start by saying I owned a Zenbook and that computer was kinda perfect. It looked great, felt expensive, and it was a tiny workhorse. I "upgraded" to the Dell Xps 2015 because it looked great in the pictures. When it arrived it felt cheap, looked cheap, and wasn't a workhorse. Installing programs lagged, fan was loud, and it soaked up grease like I was forever eating Mcdonald's fries. I couldn't keep it. I went back to my Zenbook until 3 days ago when I saw this little thing--and because my Zenbook finally committed suicide.
+
+I obviously purchased the 13in model. Why? Because $100 more is 100$ more. With that said the Snow White came in the mail. The box isn't anything fancy, but the computer is just as described. Pictures are pretty accurate. Doesn't feel anywhere near as cheap as the Dell. A review said it felt flimsy--I don't know why, the Dell feels like a childs toy-- this feels sturdy. While this is no aluminum Zenbook or Macbook it sure doesn't feel flimsy. Also it is performing like a 5th gen Intel i5 should perform--again unlike the Dell which performed like a Atom or M processor.
+
+The only reason i'd get the 14 is because the 13 is so small it's like an 11, so there's room for more space. The bad is there's no backlit keys and it runs warm. Yes it runs warm but it doesn't run loud. Trackpad seems fine, had to restart it to get the gestures working. Also, by default down is up and up is down when scrolling with the trackpad. I'm not used to that and will definitely look into the settings for a change. Ultimately this is a neat little computer and I'm just happy it performs well. If you don't mind spending the extra money go for the 14.
+
+Actually, don't waste your money on the 13 unless you really want a tiny ultrabook. The champagne gold looks a lot better and there's definitely a noticeable difference in audio quality!
+
+Update 10/6/2015
+
+I hardly ever hear the fan running, my ambient noise is I guess too loud. 64 bit software run fine (Lightroom, Dreamweaver, CorelDraw). But I do notice lagging when watching video using VLC. I notice it more when running off battery, probably because performance usually lessons to conserve battery-- but I also notice it plugged in. It makes an awful sounds when audio stutters. Also, this isn't just HD video, it happens with SD video as well. It's kinda disheartening as it is a 5th gen i5 and that barely ever happened with my 3rd gen Zenbook. But I guess the Zenbook had webpage tab stuttering. So six of one half a dozen the other. I'd look into it, maybe other video playback software will work better but as of right now VLC isn't flawless.
+
+Does feel cheaper than an aluminum body but that's to be expected. Still looks great.

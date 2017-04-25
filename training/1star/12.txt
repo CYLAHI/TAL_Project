@@ -1,0 +1,5 @@
+if the cursor is near it. Because you put your finger on a touchpad and start moving towards the objest, but the cursor is staying on the same place, and only after half a second start moving when it already passed that object.
+
+This is not a software or defective laptop. ALL LG Grams has this stupid touchpad. I did everything I could in Windows touchpad settings, I checked the BIOS for extra setting, I called LG - NO HELP AT ALL. Then I returned my LG gram 14Z950 i7 14" and bought exactly same one from BestBuy - same issue. Then I waited for a half of year and bought a newer version with a newer 6th gen processor LG gram 15Z960 i5 15" - SAME ISSUE!!!
+
+This is it. I give up on LG laptop. This touchpad makes me crazy because I simply have to put a finger on the touchpad, then move it in any direction, so the cursor start moving, and only then move the cursor in the right way. It take a bunch of time because you do it every 5 seconds when you work and it is terrible experience. My advice - DO NOT BUY!
