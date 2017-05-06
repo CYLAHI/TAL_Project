@@ -1,0 +1,25 @@
+{\rtf1\ansi\ansicpg1252\cocoartf1504\cocoasubrtf820
+{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
+{\colortbl;\red255\green255\blue255;\red14\green14\blue14;}
+{\*\expandedcolortbl;;\cssrgb\c6667\c6667\c6667;}
+\paperw11900\paperh16840\margl1440\margr1440\vieww10800\viewh8400\viewkind0
+\deftab720
+\pard\pardeftab720\partightenfactor0
+
+\f0\fs26 \cf2 \expnd0\expndtw0\kerning0
+I purchased this laptop and customized it. The choice was this or the Gazelle from system76 with i3-7100H: 3 GHz \'96 3 MB cache \'96 2 cores \'96 4 threads. I went with this one because at $349 plus the cost of Crucial 16GB Kit (8GBx2) DDR4 2400 MT/s (PC4-19200) DR x8 Unbuffered SODIMM 260-Pin Memory - CT2K8G4SFD824A and a 250GB m.2SSD, delivered ~$600. That same setup from system76 was just over $900 before tax and shipping.\
+\
+So, is the ~$300 difference worth it? If you can't figure out how to make it run well with Linux, the $300 would be worth it. If I was to take this and configure it for someone else, Id charge $100 for configuration plus shipping to make sure everything worked. At that point if they decided to change something, I'd charge them per incident for support. With System76 they will support the basics the same as you would get from Acer if you had problems and was running Windows.\
+\
+I upgraded the BIOS after the first round of test so the following issues are related to the BIOS v1.23 and v1.25. The test was with Linux Mint 18.1.\
+Linux will boot off a USB drive no problems. install with no problems in Legacy BIOS or EFI mode. It will find the boot partition on reboot in Legacy BIOS mode with a standard 2.5 SSD or m.2SSD. Running in BIOS mode will require some tweaking to get some things working like trying to do a GUI shutdown after the computer has been put to sleep and then resumed, and also I noticed hibernation did not save sessions. Virtualization works in Legacy BIOS mode and you can install and run Windows VM's with no problems. I installed Windows10 using VMware on this system as a guest and it ran very well.\
+\
+To get things running in EFI mode, I did a custom install with a separate boot partition. The BIOS works different depending on if you are installing on a 2.5 SSD or m.2 SSD. That was very strange. With a 2.5 SSD, I had to set a system pw and then add the boot file to the allowed scripts from the BIOS menu. The same procedure didn't work after multiple attempts on a m.2 SSD. With the m.2 SSD after installation reboot, I booted off the Live USB. Then i followed the grub2 installation via chroot from the Ubuntu wiki, then ran boot-repair. Once the system was working everything worked including, suspend, hibernation, all hot keys, camera, etc. The only thing I had to configure was the sound and drivers for DVD's to play (waste of time because I wont' use it, but I did it to make sure it worked). Once i got the system running I beat it hard with different software and also have Windows10 running in a VM for some Windows only projects and everything is fast.\
+\
+This system can run all debian distributions of Linux. I have other laptops that have EFI and this is the first laptop I had to fight with BIOS and GRUB to get things working in EFI. I have an older ACER laptop that uses EFI and I've installed many Ubuntu based flavors in EFI mode with no problems. So i was frustrated to see this new system from the same company not work out of the box. I have desktops with gigabyte and ASUS motherboards running in EFI mode without issues and they didn't require all this attention. I wish they sold this as a bare bones laptop. The HDD and RAM they sent will never get used again and are in the box on a shelf.\
+\
+Battery Life with Linux Mint 18.1:\
+The system gets about 4.5 hours of battery life with my normal usage of web surfing, running Sublime Text code editors, testing web software, etc. I haven't tested life with VM running because most of the time if I have VM's running I have it plugged in. That battery life is close to what System76 reported the Gazelle i was comparing has with Ubuntu. It's hard to find a system with a high battery life with Ubuntu. To date the only successful one I had was a MacBook Air running Ubuntu Mate 16.04 LTS sticking close to the 10 hour mark.\
+\
+Users Planning on Sticking to the Out of Box Config:\
+Out of the box the system is unbearably slow with 4GB RAM and their 1tb mechanical drive with windows 10. I almost closed it and sent it back just on seeing how poor the performance was out of the box with the operating system it was supported with.}

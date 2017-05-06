@@ -1,0 +1,20 @@
+{\rtf1\ansi\ansicpg1252\cocoartf1504\cocoasubrtf820
+{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
+{\colortbl;\red255\green255\blue255;\red14\green14\blue14;}
+{\*\expandedcolortbl;;\cssrgb\c6667\c6667\c6667;}
+\paperw11900\paperh16840\margl1440\margr1440\vieww10800\viewh8400\viewkind0
+\deftab720
+\pard\pardeftab720\partightenfactor0
+
+\f0\fs26 \cf2 \expnd0\expndtw0\kerning0
+As of now I am sending this laptop to the Service Center for a 2nd time within 4 months of owning it.\
+\
+First it simply wouldn't power on, the keyboard backlight would turn on and the fan would start to rev up and it would just click off. It would then try again after about 20 seconds and stay in this perpetual state. So I paid for the shipping to send it to the service center and get it fixed.\
+\
+Fast forward to when I received it back the touchpad doesn't work at all. I go into device manager and there is an error code 10 on my i2c HID Device. I look at events and see that on the last day they had my laptop before they sent it back to me someone had cleared the driver to let Windows re-install it, it re-installed and still didn't work. Subsequently it was left by the service center even though the error code showed back up seconds after Windows re-installed the driver.\
+\
+I contact the support chat (which was very helpful by the way I will certainly give them that credit) and the fix is to Factory Reset my laptop. Wow, factory resetting after 3 months and apparently just having the Mainboard replaced by the service center? Whatever, it couldn't hurt. After the Factory Reset my touchpad still isn't working so I contact the support chat again. Now while I'm talking this time in the support chat my screen turns into a ton of white, red, and black pixelated boxes and my computer crashes after about 20 seconds.\
+\
+After starting a 3rd chat session and going through some additional attempts to fix the touchpad I'm told the best step is to send my laptop to the service center again! They are covering shipping this time but I will still be paying for the box. So about 60 bucks total in shipping to the service center within 4 months of purchase.\
+\
+Computer was working great and was absolutely great for the price I got it until all this started happening. I cannot give this anything but a 1-star at the moment and I'd give it 0 if I could.}

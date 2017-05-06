@@ -1,0 +1,37 @@
+Having used the Samsung Chromebook Plus every day since I got it, and mostly ignoring my MacBook Pro with 15" Retina Display, I believe that the Plus is the first real "iPad killer" I've come across. By that I mean, it fulfills the promise to replace a laptop for almost all uses while addressing the shortcomings of tablets. The keyboard is built in, there is a track pad and touch screen with stylus, no separate case is required, and the rotating screen provides genuinely useful orientations. It's fast, battery life is good, charging is quick, the screen is fantastic, it can drive external displays, and it's reasonably light. The Chrome browser is first rate, and it can run thousands of apps! I've been using the Plus extensively at home and while traveling - for browsing, watching videos, taking handwritten notes (see update on LectureNotes below), email, photos, reading Kindle books, music, maps, games - you name it. The Plus and others like it are the portable do-it-all devices of the future.
+
+*Original Review and updates*
+I've had a few days to play with the Chromebook Plus and so far I love it! I've been looking to replace my Samsung Tab Pro 12.2" tablet (the Note Pro without a pen). The Chromebook Plus seemed perfect as it can be folded over to be a tablet, and can also be used like a regular laptop. Plus it runs Chrome and Android apps.
+
+Overall I really like it. It's size is just right, a bit heavier than the Tab / Note Pro and a bit squarer (see attached comparison pictures). The screen is really good and I only need to put it on 1/2 brightness. It's aspect ratio is 3:2 which is perfect for browsing and using as a tablet. The touchscreen works very well. I love that I don't need a special case to prop it up; the 360 degree hinge allows you to situate the screen at whatever angle you choose.
+
+Chrome runs very well. It's about twice as fast as the Tab / Note Pro tablet (see attached "Octane" benchmark image). Having windows is great and I have more than 20 tabs open in 4 windows with no issues. Windows are only available in laptop mode. In tablet mode it makes every app full screen. I'm expecting tablet mode to get windows when the underlying Android subsystem gets updated from Marshmallow to Nougat.
+
+Android apps generally work really well. The Kindle app is great. Google photos, Google Inbox, NY Times, all work fine although often I find no need for an Android app if there is a Chrome web version of the app. Google Maps is much better on Chrome because it shows you the 3D satellite view. Google Inbox is faster on the app version though so I use that. Sonos does not work as of this writing, as it could not find my Sonos system. I've opened a ticket with them.
+
+I loaded up the "Asphalt 8" road racing app and it was very responsive. I didn't see any stuttering as seen on some of the online reviews of the Chromebook Pro. Go figure!
+
+Battery life is good, I'm getting between 7 and 9 hours. Apps that uses the CPU a lot can reduce that quickly. To see which tabs / apps are using the most CPU, you can bring up the task manager by pressing the "search" and "esc" keys. I've found that tabs that aren't visible don't use as much CPU. Amazon often uses a lot of CPU when it's tab is visible, so I close it or switch to another tab when not using it. For some reason the Google Hangouts extension was eating a lot of CPU, so I disabled it.
+
+The keyboard works well, although it is somewhat mushy and the delete key is too small so I often press = by mistake. The touch pad works well for two finger scrolling and you can enable "tap and drag" in Accessibility settings. It has a slight rebound when two finger scrolling down a web page; when you lift your fingers the page scrolls goes back a tiny bit in the opposite direction that you were scrolling. I hope Google/Samsung can address this soon. *Update Feb 18, 2017* This was fixed by a recent update, there is no longer any "bounce back".
+
+The Samsung Chromebook Plus seems like a real keeper! Some here have suggested waiting for the Chromebook Pro, but I'm not sure that makes sense as the Plus is here today, is fast and reliable, and is a joy to use!
+
+*Update Feb 18, 2017*
+I am having Bluetooth issues. Sometimes it cuts in and out while playing music on the Google Music web site. Or it will stop playing through the Bluetooth speaker and start playing through the built in speakers, even though the Bluetooth connection is still established. Hope this can be fixed soon! *Update Mar 4, 2017* This is supposed to be fixed soon in ChromeOS 57.
+
+I found a very nice note taking app that responds to pressure from the stylus, called Squid. There is a toolkit add-on for $2.99 that gives more features like geometric shapes.
+
+*Update Feb 21, 2017*
+I'm finding that I can have many Chrome windows and tabs open, many more than suggested in reviews. Right now for instance, I have 41 tabs in 13 windows open.
+
+*Update Feb 22, 2017*
+For those of you who like to keep lots of tabs and windows open (tab hoarding), I found this great Chrome extension called The Great Discarder. It automatically suspends idle tabs to reduce Chrome memory usage using Chrome's native tab discarding. When you do visit a suspended tab it automatically reloads. With this extension you can have as many tabs open as you want! Get it at the Chrome web store.
+
+*Update Feb 28, 2017*
+I installed the Android version of Skype for Business to attend work meetings. I found that clicking web links to Skype meetings did not work. The link is opened in the Chromebook's Chrome browser, which doesn't know how to send it to Skype, since Chromebook's Chrome is not an Android app. I found a work-around, which is to install Chrome for Android. Now when I click on a Skype web link from an Android app, I can choose whether to open it in the Chromebook's Chrome or in Android's Chrome. Opening it in Android's Chrome, it then gets passed properly to the Skype Android app.
+
+*Update Mar 4, 2017*
+I looked at some of the note taking apps on the Play store, including Squid, INKredible, SketchBook, HandWrite Pro Note and Draw, and LectureNotes. LectureNotes isn't as flashy as some of the others, and the interface is not as pretty, but it is very comprehensive in how you set it up and use it. Pressure sensitive stylus, custom pencils and eraser, draw with stylus / erase with finger, basic geometric shapes, very good selection tools, layers... about the only thing it fell down on was it doesn't go full screen in the tablet portrait mode.
+
+LectureNotes was the only one that let me import a PDF and then select, copy, cut, and paste from the PDF itself as opposed to just drawing over it. To get PDF import functionality you have to download the developer's PDFView app.

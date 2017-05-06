@@ -1,0 +1,10 @@
+{\rtf1\ansi\ansicpg1252\cocoartf1504\cocoasubrtf820
+{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
+{\colortbl;\red255\green255\blue255;\red14\green14\blue14;}
+{\*\expandedcolortbl;;\cssrgb\c6667\c6667\c6667;}
+\paperw11900\paperh16840\margl1440\margr1440\vieww10800\viewh8400\viewkind0
+\deftab720
+\pard\pardeftab720\partightenfactor0
+
+\f0\fs26 \cf2 \expnd0\expndtw0\kerning0
+Bought Acer laptop after review of specs and online reviews. First unit delivered had a bold black line, top to bottom, on the screen. Made screen hard to read. All else was good to great. Asked for a replacement and Amazon accepted return of the first and shipped a second unit. I spent 3 days getting Win 10 HOME updated! Many problems and failed updates. Screen on 2nd unit developed 3 heavy black vertical lines. Two failures in two units was too many. Other than screen defects and miserable experiences with Windows update, the system was OK. Loved the clarity and fidelity of the screen (ruined by the defects) and the hardware was well laid out and easy to use.}
