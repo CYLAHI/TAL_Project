@@ -1,9 +1,9 @@
 ----------------------\
-README\
+        README
 ----------------------\
 
 ----------------------\
-Command Line Arguments\
+Command Line Arguments
 ----------------------\
 
 Example:   python main.py -d folder -f filename.txt
