@@ -3,6 +3,17 @@
 ----------------------\
 
 ----------------------\
+Global Information
+----------------------\
+Authors : Cyrille-L. HILARICUS & Julie RICHARD 
+
+Number Of files : 
+4 files .py
+2 folders
+1 file .pdf
+1 README
+
+----------------------\
 Command Line Arguments
 ----------------------\
 
