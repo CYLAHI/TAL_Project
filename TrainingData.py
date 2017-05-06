@@ -1,30 +1,27 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
 
-import os #allows to get all directories, files... in a folder 
-import Preprocess as pp
+import os
+import Analyze as an
 
 
-def runTraining(folderName,language) :
-	trainingFiles=[]
-	ppData=[]
-	trainingData={}
-	
-	for dir in os.walk(folderName):
-		dir=dir[1] #get directory list
-		for i,f in enumerate(dir):
-			actualFolder=os.path.join(folderName,f)
-			for files in os.walk(actualFolder):
-				trainingFiles.append(files[2]) #appen files list to trainingFiles
-				for i,tf in enumerate(files[2]):
-					ppData.append(pp.preprocessFile( os.path.join(actualFolder,tf) ,language))   #Methode de preprocess du prof
-					trainingData=pp.analyzeFile( os.path.join(actualFolder,tf) ,language)
-	
-	# print("Training files loaded :")
-	# print(trainingFiles)
-	print("Training data preprocessed")
-	print(ppData)
-	print("Training files analyzed")
-	print(trainingData)
-		
-	return trainingData
+def runTraining(folderName) :
+        trainingFiles=[] #Liste des fichiers d'entrainement
+        trainingData=[] #données étudiées
+        pos=0
+        neg=0
+        
+        
+        for dir in os.walk(folderName):
+                dir=dir[1] #get directory list
+                for i,f in enumerate(dir):
+                        actualFolder=os.path.join(folderName,f)
+                        for files in os.walk(actualFolder):#Parcourir liste dossier dans training
+                                trainingFiles.append(files[2]) 
+                                for j, tf in enumerate (files[2]): #Parcourir liste des fichiers dans *star
+                                        tempP,tempN=( an.analyzeFile( os.path.join(actualFolder,tf) ) )
+                                        pos=(pos+tempP)/2
+                                        neg=(neg+tempN)/2
+                                trainingData.append([pos,neg])
+        return trainingData
+
